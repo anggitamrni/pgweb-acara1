@@ -9,5 +9,5 @@ Kelas : A
 
 Avatar :  
 
-![Avatar](image/Ava.png)
+<img src="image/Ava.png" width="100">
 
